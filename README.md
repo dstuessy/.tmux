@@ -1,4 +1,4 @@
-# TMUX Config
+# Tmux Config
 
 Personal tmux config
 
